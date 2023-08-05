@@ -1,1 +1,1 @@
-# ahp-rp
+# antihype resourcepack for diamondworld
