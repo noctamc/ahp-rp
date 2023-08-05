@@ -1,1 +1,1 @@
-# antihype resourcepack for diamondworld
+# Anti-Hype X TSV resourcepack for diamondworld
